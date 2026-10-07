@@ -12,3 +12,5 @@ git add .  : agrega todos los archivos pendientes al proximo commit
 
 commit:  conjunto de cambios para guardar en mi repositorio
 git commit -m"asunto"
+
+.gitignore : lista de archivos que nunca se agregaran al repositorio
