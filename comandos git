@@ -1,0 +1,11 @@
+git -v : versión de git
+git init : inicia git en la carpeta
+
+git status: rama actual y  commit actual
+
+code . : abre visual code en la carpeta actual
+
+git add <file> : agregar archivo a mi proximo commit
+"le estoy dando la indicacion para que permanesca en el repositorio"
+
+git add .  : agrega todos los archivos pendientes al proximo commit
